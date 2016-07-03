@@ -14,7 +14,7 @@ public class Main {
         
         TwitchBot bot = new TwitchBot();
         bot.setVerbose(true);
-        bot.connect("irc.twitch.tv", 6667, "oauth:rl2w19hav60uiet8409c4j7h77rhkk"); // Dont Steal this please!!!
+        bot.connect("irc.twitch.tv", 6667, "oauth:eb1s0ermd2lrkgznvkucxik2nef4d0"); // Dont Steal this please!!!
         bot.joinChannel("#smidty");
         
     }
